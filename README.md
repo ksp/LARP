@@ -16,4 +16,4 @@ Zdrojový kód ke hře LARP na JSKSP 2021.
 ---
 
 ## Setup
-Nastavení hry vyžaduje Discord server se stejnou strukturou (rolí, hlasových/textových kanálů) jako [tento](https://discord.gg/PhhFpnnz). Poté stačí bota zapnout a do kanálu `org-bot` zadávat příkazy.
+Nastavení hry vyžaduje Discord server se stejnou strukturou (rolí, hlasových/textových kanálů) jako [tento](https://discord.gg/KvA8DnzPVw). Poté stačí bota zapnout a do kanálu `org-bot` zadávat příkazy.
